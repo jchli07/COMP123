@@ -1,0 +1,2 @@
+H:\COMP123\Unit_Testing\Unit_Testing\bin\Debug\Unit_Testing.exe.config
+H:\COMP123\Unit_Testing\Unit_Testing\obj\Debug\Unit_Testing.csprojResolveAssemblyReference.cache

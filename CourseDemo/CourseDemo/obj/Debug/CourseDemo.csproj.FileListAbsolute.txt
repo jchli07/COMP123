@@ -1,0 +1,6 @@
+H:\COMP123\CourseDemo\CourseDemo\bin\Debug\CourseDemo.exe.config
+H:\COMP123\CourseDemo\CourseDemo\bin\Debug\CourseDemo.exe
+H:\COMP123\CourseDemo\CourseDemo\bin\Debug\CourseDemo.pdb
+H:\COMP123\CourseDemo\CourseDemo\obj\Debug\CourseDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\CourseDemo\CourseDemo\obj\Debug\CourseDemo.exe
+H:\COMP123\CourseDemo\CourseDemo\obj\Debug\CourseDemo.pdb

@@ -1,0 +1,5 @@
+H:\COMP123\Unit_Testing\AccountLibrary\bin\Debug\AccountLibrary.dll
+H:\COMP123\Unit_Testing\AccountLibrary\bin\Debug\AccountLibrary.pdb
+H:\COMP123\Unit_Testing\AccountLibrary\obj\Debug\AccountLibrary.csprojResolveAssemblyReference.cache
+H:\COMP123\Unit_Testing\AccountLibrary\obj\Debug\AccountLibrary.dll
+H:\COMP123\Unit_Testing\AccountLibrary\obj\Debug\AccountLibrary.pdb

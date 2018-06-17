@@ -1,0 +1,9 @@
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\bin\Debug\SimpleCalculatorDemo.exe.config
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\bin\Debug\SimpleCalculatorDemo.exe
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\bin\Debug\SimpleCalculatorDemo.pdb
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\obj\Debug\SimpleCalculatorDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\obj\Debug\SimpleCalculatorDemo.Form1.resources
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\obj\Debug\SimpleCalculatorDemo.Properties.Resources.resources
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\obj\Debug\SimpleCalculatorDemo.csproj.GenerateResource.Cache
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\obj\Debug\SimpleCalculatorDemo.exe
+H:\COMP123\SimpleCalculatorDemo\SimpleCalculatorDemo\obj\Debug\SimpleCalculatorDemo.pdb

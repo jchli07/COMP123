@@ -1,0 +1,6 @@
+H:\COMP123\Inhertance_shapesDemo\Inhertance_shapesDemo\bin\Debug\Inhertance_shapesDemo.exe.config
+H:\COMP123\Inhertance_shapesDemo\Inhertance_shapesDemo\obj\Debug\Inhertance_shapesDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\Inhertance_shapesDemo\Inhertance_shapesDemo\bin\Debug\Inhertance_shapesDemo.exe
+H:\COMP123\Inhertance_shapesDemo\Inhertance_shapesDemo\bin\Debug\Inhertance_shapesDemo.pdb
+H:\COMP123\Inhertance_shapesDemo\Inhertance_shapesDemo\obj\Debug\Inhertance_shapesDemo.exe
+H:\COMP123\Inhertance_shapesDemo\Inhertance_shapesDemo\obj\Debug\Inhertance_shapesDemo.pdb

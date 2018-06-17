@@ -1,0 +1,6 @@
+H:\COMP123\Week2.0\bin\Debug\Week2.0.exe.config
+H:\COMP123\Week2.0\bin\Debug\Week2.0.exe
+H:\COMP123\Week2.0\bin\Debug\Week2.0.pdb
+H:\COMP123\Week2.0\obj\Debug\Week2.0.csprojResolveAssemblyReference.cache
+H:\COMP123\Week2.0\obj\Debug\Week2.0.exe
+H:\COMP123\Week2.0\obj\Debug\Week2.0.pdb

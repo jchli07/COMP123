@@ -1,0 +1,6 @@
+H:\COMP123\MedalDemo\bin\Debug\MedalDemo.exe.config
+H:\COMP123\MedalDemo\bin\Debug\MedalDemo.exe
+H:\COMP123\MedalDemo\bin\Debug\MedalDemo.pdb
+H:\COMP123\MedalDemo\obj\Debug\MedalDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\MedalDemo\obj\Debug\MedalDemo.exe
+H:\COMP123\MedalDemo\obj\Debug\MedalDemo.pdb

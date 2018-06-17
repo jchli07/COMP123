@@ -1,0 +1,9 @@
+H:\COMP123\PremierDemo\PremierDemo\bin\Debug\PremierDemo.exe.config
+H:\COMP123\PremierDemo\PremierDemo\bin\Debug\PremierDemo.exe
+H:\COMP123\PremierDemo\PremierDemo\bin\Debug\PremierDemo.pdb
+H:\COMP123\PremierDemo\PremierDemo\obj\Debug\PremierDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\PremierDemo\PremierDemo\obj\Debug\PremierDemo.Form1.resources
+H:\COMP123\PremierDemo\PremierDemo\obj\Debug\PremierDemo.Properties.Resources.resources
+H:\COMP123\PremierDemo\PremierDemo\obj\Debug\PremierDemo.csproj.GenerateResource.Cache
+H:\COMP123\PremierDemo\PremierDemo\obj\Debug\PremierDemo.exe
+H:\COMP123\PremierDemo\PremierDemo\obj\Debug\PremierDemo.pdb

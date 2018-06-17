@@ -1,0 +1,18 @@
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\bin\Debug\Premier_Gui.exe.config
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\bin\Debug\Premier_Gui.exe
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\bin\Debug\Premier_Gui.pdb
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.csprojResolveAssemblyReference.cache
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.Form1.resources
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.Properties.Resources.resources
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.csproj.GenerateResource.Cache
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.exe
+c:\users\npersh\documents\visual studio 2012\Projects\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.pdb
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\bin\Debug\Premier_Gui.exe.config
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.exe
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.pdb
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\bin\Debug\Premier_Gui.exe
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\bin\Debug\Premier_Gui.pdb
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.csprojResolveAssemblyReference.cache
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.Form1.resources
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.Properties.Resources.resources
+H:\COMP123\Week12_Premier_Mayors\Premier_Gui\obj\Debug\Premier_Gui.csproj.GenerateResource.Cache

@@ -1,0 +1,6 @@
+H:\COMP123\AtomDemo\bin\Debug\AtomDemo.exe.config
+H:\COMP123\AtomDemo\bin\Debug\AtomDemo.exe
+H:\COMP123\AtomDemo\bin\Debug\AtomDemo.pdb
+H:\COMP123\AtomDemo\obj\Debug\AtomDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\AtomDemo\obj\Debug\AtomDemo.exe
+H:\COMP123\AtomDemo\obj\Debug\AtomDemo.pdb

@@ -1,0 +1,9 @@
+H:\COMP123\GuiElementDemo\GuiElementDemo\bin\Debug\GuiElementDemo.exe.config
+H:\COMP123\GuiElementDemo\GuiElementDemo\bin\Debug\GuiElementDemo.exe
+H:\COMP123\GuiElementDemo\GuiElementDemo\bin\Debug\GuiElementDemo.pdb
+H:\COMP123\GuiElementDemo\GuiElementDemo\obj\Debug\GuiElementDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\GuiElementDemo\GuiElementDemo\obj\Debug\GuiElementDemo.Form1.resources
+H:\COMP123\GuiElementDemo\GuiElementDemo\obj\Debug\GuiElementDemo.Properties.Resources.resources
+H:\COMP123\GuiElementDemo\GuiElementDemo\obj\Debug\GuiElementDemo.csproj.GenerateResource.Cache
+H:\COMP123\GuiElementDemo\GuiElementDemo\obj\Debug\GuiElementDemo.exe
+H:\COMP123\GuiElementDemo\GuiElementDemo\obj\Debug\GuiElementDemo.pdb

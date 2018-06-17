@@ -1,0 +1,6 @@
+H:\COMP123\DateDemo\bin\Debug\DateDemo.exe.config
+H:\COMP123\DateDemo\bin\Debug\DateDemo.exe
+H:\COMP123\DateDemo\bin\Debug\DateDemo.pdb
+H:\COMP123\DateDemo\obj\Debug\DateDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\DateDemo\obj\Debug\DateDemo.exe
+H:\COMP123\DateDemo\obj\Debug\DateDemo.pdb

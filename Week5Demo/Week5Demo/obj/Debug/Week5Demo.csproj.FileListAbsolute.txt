@@ -1,0 +1,2 @@
+H:\COMP123\Week5Demo\Week5Demo\bin\Debug\Week5Demo.exe.config
+H:\COMP123\Week5Demo\Week5Demo\obj\Debug\Week5Demo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+H:\COMP123\Unit_Testing\AcountHarness\bin\Debug\AcountHarness.exe.config
+H:\COMP123\Unit_Testing\AcountHarness\bin\Debug\AcountHarness.exe
+H:\COMP123\Unit_Testing\AcountHarness\bin\Debug\AcountHarness.pdb
+H:\COMP123\Unit_Testing\AcountHarness\bin\Debug\AccountLibrary.dll
+H:\COMP123\Unit_Testing\AcountHarness\bin\Debug\AccountLibrary.pdb
+H:\COMP123\Unit_Testing\AcountHarness\obj\Debug\AcountHarness.csprojResolveAssemblyReference.cache
+H:\COMP123\Unit_Testing\AcountHarness\obj\Debug\AcountHarness.exe
+H:\COMP123\Unit_Testing\AcountHarness\obj\Debug\AcountHarness.pdb

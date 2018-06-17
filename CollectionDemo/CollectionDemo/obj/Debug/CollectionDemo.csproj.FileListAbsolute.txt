@@ -1,0 +1,6 @@
+H:\COMP123\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+H:\COMP123\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe
+H:\COMP123\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.pdb
+H:\COMP123\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.exe
+H:\COMP123\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\npersh\Desktop\Week05-Exceptions\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\npersh\Desktop\Week05-Exceptions\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\npersh\Desktop\Week05-Exceptions\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\npersh\Desktop\Week05-Exceptions\ExceptionDemo\obj\Debug\ExceptionDemo.csprojResolveAssemblyReference.cache
+C:\Users\npersh\Desktop\Week05-Exceptions\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\npersh\Desktop\Week05-Exceptions\ExceptionDemo\obj\Debug\ExceptionDemo.pdb

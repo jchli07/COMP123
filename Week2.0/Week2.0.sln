@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week2.0", "Week2.0.csproj", "{B7E56B31-872B-4093-BF00-A5F5738CEA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedalDemo", "..\MedalDemo\MedalDemo.csproj", "{C890A3D6-F7BA-4787-94F7-7C53EE41232E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E56B31-872B-4093-BF00-A5F5738CEA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E56B31-872B-4093-BF00-A5F5738CEA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E56B31-872B-4093-BF00-A5F5738CEA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E56B31-872B-4093-BF00-A5F5738CEA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C890A3D6-F7BA-4787-94F7-7C53EE41232E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C890A3D6-F7BA-4787-94F7-7C53EE41232E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C890A3D6-F7BA-4787-94F7-7C53EE41232E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C890A3D6-F7BA-4787-94F7-7C53EE41232E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

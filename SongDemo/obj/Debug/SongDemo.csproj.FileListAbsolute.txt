@@ -1,0 +1,12 @@
+H:\COMP123\SongDemo\bin\Debug\SongDemo.exe.config
+E:\SongDemo\bin\Debug\SongDemo.exe.config
+E:\SongDemo\bin\Debug\SongDemo.exe
+E:\SongDemo\bin\Debug\SongDemo.pdb
+E:\SongDemo\obj\Debug\SongDemo.csprojResolveAssemblyReference.cache
+E:\SongDemo\obj\Debug\SongDemo.exe
+E:\SongDemo\obj\Debug\SongDemo.pdb
+H:\COMP123\SongDemo\obj\Debug\SongDemo.exe
+H:\COMP123\SongDemo\obj\Debug\SongDemo.pdb
+H:\COMP123\SongDemo\bin\Debug\SongDemo.exe
+H:\COMP123\SongDemo\bin\Debug\SongDemo.pdb
+H:\COMP123\SongDemo\obj\Debug\SongDemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,18 @@
+c:\users\npersh\documents\visual studio 2012\Projects\Week05-FileIO\FileIODemo\bin\Debug\FileIODemo.exe.config
+c:\users\npersh\documents\visual studio 2012\Projects\Week05-FileIO\FileIODemo\bin\Debug\FileIODemo.exe
+c:\users\npersh\documents\visual studio 2012\Projects\Week05-FileIO\FileIODemo\bin\Debug\FileIODemo.pdb
+c:\users\npersh\documents\visual studio 2012\Projects\Week05-FileIO\FileIODemo\obj\Debug\FileIODemo.csprojResolveAssemblyReference.cache
+c:\users\npersh\documents\visual studio 2012\Projects\Week05-FileIO\FileIODemo\obj\Debug\FileIODemo.exe
+c:\users\npersh\documents\visual studio 2012\Projects\Week05-FileIO\FileIODemo\obj\Debug\FileIODemo.pdb
+C:\Users\npersh\Desktop\Week06-FileIO\FileIODemo\bin\Debug\FileIODemo.exe.config
+C:\Users\npersh\Desktop\Week06-FileIO\FileIODemo\obj\Debug\FileIODemo.exe
+C:\Users\npersh\Desktop\Week06-FileIO\FileIODemo\obj\Debug\FileIODemo.pdb
+C:\Users\npersh\Desktop\Week06-FileIO\FileIODemo\bin\Debug\FileIODemo.exe
+C:\Users\npersh\Desktop\Week06-FileIO\FileIODemo\bin\Debug\FileIODemo.pdb
+C:\Users\npersh\Desktop\Week06-FileIO\FileIODemo\obj\Debug\FileIODemo.csprojResolveAssemblyReference.cache
+H:\COMP123\Week06-FileIO\FileIODemo\bin\Debug\FileIODemo.exe.config
+H:\COMP123\Week06-FileIO\FileIODemo\obj\Debug\FileIODemo.exe
+H:\COMP123\Week06-FileIO\FileIODemo\obj\Debug\FileIODemo.pdb
+H:\COMP123\Week06-FileIO\FileIODemo\bin\Debug\FileIODemo.exe
+H:\COMP123\Week06-FileIO\FileIODemo\bin\Debug\FileIODemo.pdb
+H:\COMP123\Week06-FileIO\FileIODemo\obj\Debug\FileIODemo.csprojResolveAssemblyReference.cache

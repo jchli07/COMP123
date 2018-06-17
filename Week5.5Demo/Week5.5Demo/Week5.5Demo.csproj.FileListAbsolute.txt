@@ -1,0 +1,6 @@
+H:\COMP123\Week5.5Demo\Week5.5Demo\bin\Debug\Week5.5Demo.exe.config
+H:\COMP123\Week5.5Demo\Week5.5Demo\bin\Debug\Week5.5Demo.exe
+H:\COMP123\Week5.5Demo\Week5.5Demo\bin\Debug\Week5.5Demo.pdb
+H:\COMP123\Week5.5Demo\Week5.5Demo\obj\Debug\Week5.5Demo.csprojResolveAssemblyReference.cache
+H:\COMP123\Week5.5Demo\Week5.5Demo\obj\Debug\Week5.5Demo.exe
+H:\COMP123\Week5.5Demo\Week5.5Demo\obj\Debug\Week5.5Demo.pdb

@@ -1,0 +1,6 @@
+H:\COMP123\AstronautDemo\bin\Debug\AstronautDemo.exe.config
+H:\COMP123\AstronautDemo\bin\Debug\AstronautDemo.exe
+H:\COMP123\AstronautDemo\bin\Debug\AstronautDemo.pdb
+H:\COMP123\AstronautDemo\obj\Debug\AstronautDemo.csprojResolveAssemblyReference.cache
+H:\COMP123\AstronautDemo\obj\Debug\AstronautDemo.exe
+H:\COMP123\AstronautDemo\obj\Debug\AstronautDemo.pdb

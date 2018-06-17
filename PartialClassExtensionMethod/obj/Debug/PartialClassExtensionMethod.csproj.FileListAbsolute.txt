@@ -1,0 +1,6 @@
+H:\COMP123\PartialClassExtensionMethod\bin\Debug\PartialClassExtensionMethod.exe.config
+H:\COMP123\PartialClassExtensionMethod\bin\Debug\PartialClassExtensionMethod.exe
+H:\COMP123\PartialClassExtensionMethod\bin\Debug\PartialClassExtensionMethod.pdb
+H:\COMP123\PartialClassExtensionMethod\obj\Debug\PartialClassExtensionMethod.csprojResolveAssemblyReference.cache
+H:\COMP123\PartialClassExtensionMethod\obj\Debug\PartialClassExtensionMethod.exe
+H:\COMP123\PartialClassExtensionMethod\obj\Debug\PartialClassExtensionMethod.pdb
